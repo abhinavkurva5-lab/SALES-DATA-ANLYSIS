@@ -31,5 +31,5 @@ ANALYZED 9800 ROWS OF SALES DATA USING PIVOT TABLES,VLOOKUP AND CHARTS
 - Created Line and Bar charts to visualize trends
 - Built KPI Dashboard
 
-## Project Link
-[Click here to view project](PASTE YOUR GOOGLE SHEETS LINK HERE)
+## Project LINK)
+https://docs.google.com/spreadsheets/d/1Wek6Yoq-Xarqkh4nHbLbvbwU_xUdsBuPf9lsx7740Ps/edit?usp=sharing
